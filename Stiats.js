@@ -116,7 +116,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					block : 5, 
 					miniBlocks : 2, 
 					singleAttTrials : 1, 
-					sharedAttTrials : , 
+					sharedAttTrials : 1, 
 					categoryTrials : 1
 				}
 			],
